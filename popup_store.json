@@ -3,7 +3,7 @@
     "title": "리드볼트 팝업 \"아 출근하기 싫다\"",
     "startDate": "25.08.23",
     "endDate": "25.08.31", 
-    "location": "연무장길 5-5 MOVIE LAND 성수",
+    "location": "서울 성동구 연무장길 5-5, MOVIE LAND 성수",
     "content": "영화 상영과 여행 소장품 및 굿즈를 만나볼 수 있는 특별한 공간. 주말에만 운영되니 서둘러 방문하세요!",
     "link": "https://naver.me/GDLanFmJ"
   },
@@ -11,7 +11,7 @@
     "title": "커리쉴 팝업",
     "startDate": "25.08.27",
     "endDate": "25.09.02",
-    "location": "연무장길 81 무신사 팝업 뷰티 스페이스", 
+    "location": "서울 성동구 연무장길 81, 무신사 팝업 뷰티 스페이스", 
     "content": "두피·모발 진단부터 럭키드로우, 샘플링까지! 헤어케어에 관심 있다면 필수 방문 코스.",
     "link": "https://naver.me/FLeHfpi8"
   },
@@ -19,7 +19,7 @@
     "title": "팝마트 <라부부의 수상한 편의점>",
     "startDate": "25.09.12",
     "endDate": "25.09.25",
-    "location": "서울시 성동구 연무장길 65 LECT", 
+    "location": "서울 성동구 연무장길 65, LECT", 
     "content": "호기심 많고 장난기 가득한 라부부가 우연히 한 평범한 편의점을 발견하고 자신들만의 놀이터로 바꿔놓았어요.",
     "link": "https://naver.me/FDGjM8I1"
   },
@@ -27,7 +27,7 @@
     "title": "DAY6.zip : The Home of Our Decade",
     "startDate": "25.09.01",
     "endDate": "25.09.07",
-    "location": "서울 강남구 도산대로15길 35 신사 지스퀘어",
+    "location": "서울 강남구 도산대로15길 35, 신사 지스퀘어",
     "content": "데이식스 10주년 기념 팝업스토어!",
     "link": "https://m.booking.naver.com/booking/12/bizes/1478128/items/6985797"
   },
@@ -38,5 +38,13 @@
     "location": "서울 성동구 연무장15길 11, S팩토리",
     "content": "<하이큐!! 애니메이션 10주년 기념전>이 성수 에스팩토리에서 개최됩니다.",
     "link": "http://www.ohmuseum.com/exhibition_view.php?idx=11"
+  },
+  {
+    "title": "너무 착한데? & 너무 별론데?",
+    "startDate": "25.08.20",
+    "endDate": "25.09.30",
+    "location": "서울 성동구 뚝섬로 403",
+    "content": "일본에서 50만명 넘게 방문 한 인기 폭발 전시! <너무별론데? 너무좋은데?> 전시가 성수를 찾아왔습니다",
+    "link": "https://booking.naver.com/booking/5/bizes/1196859"
   }
 ]
