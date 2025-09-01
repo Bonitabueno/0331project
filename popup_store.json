@@ -56,6 +56,22 @@
     "link": "https://naver.me/Gziim025"
   },
   {
+    "title": "루트인성수",
+    "startDate": "25.08.29",
+    "endDate": "25.09.07",
+    "location": "서울 성동구 성수일로 33 (성수동1가)",
+    "content": "패션, 뷰티, 리추얼, 향, 식음, 움직임까지! 나를 이루는 모든 감각을 자유롭게 탐험하는 3층짜리 대형 놀이터",
+    "link": "https://naver.me/xBMwgIok"
+  },
+  {
+    "title": "나가노마켓",
+    "startDate": "25.08.29",
+    "endDate": "25.09.14",
+    "location": "서울 성동구 연무장길 97 (성수동2가)",
+    "content": "한국 한정 컬러곰을 판매하는 나가노 팝업이 성수에 찾아왔습니다",
+    "link": "https://naver.me/G8ht04oh"
+  }, 
+  {
     "title": "귀멸의칼날 부산 팝업스토어",
     "startDate": "25.09.11",
     "endDate": "25.09.24",
@@ -126,5 +142,13 @@
     "location": "경기 수원시 장안구 수성로 175, 스타필드 수원 1층",
     "content": "CLOGY의 특별한 신발모양 빵 팝업이 찾아왔습니다. 시선을 사로잡는 비주얼과 놀라운 맛 경험해 보세요.",
     "link": "https://naver.me/5UTr34UP"
-  }  
+  },
+  {
+    "title": "라이크 어거스트 팝업스토어",
+    "startDate": "24.08.01",
+    "endDate": "25.12.31",
+    "location": "강원 강릉시 초당순두부길 110 주차장, 에어스트림 캠핑트레일러",
+    "content": "What is your color for Gangneung trip? 작지만 강릉으로 꽉 찬 자체디자인 기념품샵",
+    "link": "https://www.instagram.com/like__august"
+  }
 ]
