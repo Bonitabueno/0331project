@@ -235,8 +235,24 @@
     "title" : "퍼머넌트 스튜디오",
     "startDate": "25.07.05",
     "endDate": "25.12.31",
-    "location": "부산 수영구 민락본동로19번길 62, ",
+    "location": "부산 수영구 민락본동로19번길 62",
     "content": "[직원이 상주하지 않는 매장. 방문 시 예약 필수!] 브랜드 KANGJUMGSEOK의 쇼룸이 부산에 오픈했습니다",
     "link": "https://m.place.naver.com/popupstore/2071130437/home"
+  },
+  {
+    "title" : "2025 짱구 팝업 - 부산",
+    "startDate": "25.10.10",
+    "endDate": "25.10.26",
+    "location": "부산 동구 범일로 125, 커넥트현대 부산",
+    "content": "2025년 짱구 팝업 스토어. 이번엔 숨바꼭질 컨셉으로 짱덕들을 찾아갑니다.",
+    "link": "https://m.place.naver.com/popupstore/1477656457/home"
+  },
+  {
+    "title" : "2025 짱구 팝업 - 청주",
+    "startDate": "25.08.29",
+    "endDate": "25.09.14",
+    "location": "충북 청주시 흥덕구 2순환로 1225",
+    "content": " 2025년 짱구 팝업 스토어, 이번엔 숨바꼭질 컨셉으로 짱덕들을 찾아갑니다 두 번째 숨바꼭질 장소는 청주!",
+    "link": "https://m.place.naver.com/popupstore/1277302283/home"
   }
 ]
