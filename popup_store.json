@@ -270,5 +270,29 @@
     "location": "서울 광진구 자양동 435",
     "content": "아티스트 임영웅의 두 번째 정규 앨범 'IM HERO 2' - THE MOMENT 드론라이트쇼",
     "link": "https://x.com/limyoungwoong/status/1963495676102197522"
+  },
+  {
+    "title" : "뮤드 팝업 - THE SHAPE MUSEUM",
+    "startDate": "25.09.05",
+    "endDate": "25.09.15",
+    "location": "서울 성동구 연무장길 81, 남경빌딩",
+    "content": "뮤드의 새로운 컬렉션을 가장 가까이에서 만나볼 수 있도록 준비한 공간. 뮤드만의 뷰티 제품으로 당신에게 선사하는 새로운 영감을 직접 경험해보세요",
+    "link": "https://m.place.naver.com/popupstore/1395377053/home"
+  },
+  {
+    "title" : "아르켓 팝업 스토어",
+    "startDate": "25.09.06",
+    "endDate": "25.09.14",
+    "location": "서울 성동구 성수이로 97 1층",
+    "content": "ARKET 팝업 스토어가 성수에 오픈합니다. 오직 팝업 스토어에서만 만날 수 있는 한정 캡슐 컬렉션과 다양한 커스텀 기프트, 그리고 ARKET 카페 웰컴 드링크까지.",
+    "link": "https://m.place.naver.com/popupstore/2072314017/home"
+  },
+  {
+    "title" : "캐릭캐릭체인지 X 러브이즈트루 팝업",
+    "startDate": "25.09.04",
+    "endDate": "25.09.17",
+    "location": "서울 성동구 성수이로 74",
+    "content": "너의 마음을 UNLOCK할 시간. 러브이즈트루와 캐릭캐릭체인지의 만남! 무신사 대림창고에서 다양한 패션 아이템을 만나보세요",
+    "link": "https://m.place.naver.com/popupstore/1587555982/home"
   }
 ]
