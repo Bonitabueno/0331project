@@ -310,5 +310,21 @@
     "location": "서울 성동구 성수이로 74",
     "content": "2주간 펼쳐지는 코치 무신사 팝업스토어. 러브드 레더 시리즈 등 코치의 새로운 컬렉션과 랜덤 경품이 담긴 럭키 쿠키 이벤트까지.",
     "link": "https://m.place.naver.com/popupstore/2066215207/home"
+  },
+  {
+    "title" : "K리그 X 산리오캐릭터즈",
+    "startDate": "25.09.05",
+    "endDate": "25.09.18",
+    "location": "경기 수원시 권선구 세화로 134, 타임빌라스 수원점 1층 센터홀",
+    "content": "K리그와 산리오캐릭터즈가 만났습니다. K리그 전 구단을 만난 산리오캐릭터즈 아이템을 선보입니다.",
+    "link": "https://m.place.naver.com/popupstore/2050049546/home"
+  },
+  {
+    "title" : "OFZ 스타필드 수원 팝업",
+    "startDate": "25.07.23",
+    "endDate": "25.10.30",
+    "location": "경기 수원시 장안구 수성로 175, 스타필드 수원 1층",
+    "content": "가장 한국적인 동시에 건강한 오일을 통한 건강한 식문화를 제안하는 OFZ의 팝업스토어.",
+    "link": "https://m.place.naver.com/popupstore/2050049546/home"
   }
 ]
