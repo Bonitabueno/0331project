@@ -202,7 +202,7 @@
   {
     "title" : "베베드피노 X 피너츠 팝업",
     "startDate": "25.09.04",
-    "endDate": "25.10.13",
+    "endDate": "25.10.16",
     "location": "서울 강남구 가로수길 82 (신사동)",
     "content": "베베드피노와 피너츠의 콜라보 현장! 캐리마켓 신사의 팝업에서는 어떤 일이 벌어질까요? 상상만 해도 흐뭇한 두 브랜드의 콜라보가 지금 시작합니다.",
     "link": "https://m.place.naver.com/popupstore/1004976426/home"
@@ -238,5 +238,21 @@
     "location": "서울 성동구 동일로 79",
     "content": "eyoeyo가 성수에 찾아왔습니다!",
     "link": "https://m.place.naver.com/popupstore/1936061383/home"
+  },
+  {
+    "title" : "산리오 팝업 : 마이멜로디의 드림카트",
+    "startDate": "25.10.10",
+    "endDate": "25.10.16",
+    "location": "서울 성동구 성수이로 74",
+    "content": "마이멜로디의 레드&핑크 컬러를 콘셉트로 패션, 뷰티, 한정MD를 통해 각각 다른 무드의 알록달록한 꿈을 실은 마이멜로디의 카트를 선보입니다.",
+    "link": "https://m.place.naver.com/popupstore/1515316166/home"
+  },
+  {
+    "title" : "노에트 1st scene in 성수",
+    "startDate": "25.10.10",
+    "endDate": "25.10.23",
+    "location": "서울 성동구 연무장7길 16, 성수포탈",
+    "content": "언제 어디서나 내가 원하는 모습의 '나' 이기를. On-the-go beauty, 노에트의 첫번째 팝업스토어!",
+    "link": "https://m.place.naver.com/popupstore/2042733621/home"
   }
 ]
