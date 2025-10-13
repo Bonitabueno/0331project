@@ -4,7 +4,7 @@
     "startDate": "25.08.20",
     "endDate": "25.10.31",
     "location": "서울 동작구 동작대로 119-1, 2층 카페오",
-    "content": "귀여운 부드라미의 콜라보 카페 겸 팝업스토어가 오픈해요. 현재는 잠시 공사중!",
+    "content": "귀여운 부드라미의 콜라보 카페 겸 팝업스토어가 오픈했어요.",
     "link": "https://m.place.naver.com/popupstore/2010553492/home"
   },
   {
@@ -280,22 +280,6 @@
     "link": "https://x.com/v_square_kr/status/1963799370631131256"
   },
   {
-    "title" : "토리든 커넥트 성수 : 토리웨이브 클럽",
-    "startDate": "25.07.01",
-    "endDate": "25.09.29",
-    "location": "서울 성동구 성수이로7가길 17 (성수동2가)",
-    "content": "올 여름 피부까지 시원하게 쉬어 가는 토리웨이브 속으로 초대합니다. DIVE IN 파도가 흐르는 토리웨이브 해변에서 수분을 충전해보세요.",
-    "link": "https://m.place.naver.com/popupstore/1170530811/home"
-  },
-  {
-    "title" : "마파테 팝업",
-    "startDate": "25.09.12",
-    "endDate": "25.09.28",
-    "location": "서울 성동구 연무장15길 11 (성수동2가)",
-    "content": "호카의 아이코닉 프랜차이즈 MAFATE가 팝업으로 찾아왔습니다 트레일을 넘어, 라이프스타일로 확장된 마파테 시리즈를 성수에서 만나보세요.",
-    "link": "https://m.place.naver.com/popupstore/1388238895/home"
-  },
-  {
     "title" : "DEBUT COUNTDOWN 팝업 : 데뷔까지 단 20분",
     "startDate": "25.09.05",
     "endDate": "25.11.30",
@@ -305,7 +289,7 @@
   },
   {
     "title" : "베베드피노 X 피너츠 팝업",
-    "startDate": "  25.09.04",
+    "startDate": "25.09.04",
     "endDate": "25.10.13",
     "location": "서울 강남구 가로수길 82 (신사동)",
     "content": "베베드피노와 피너츠의 콜라보 현장! 캐리마켓 신사의 팝업에서는 어떤 일이 벌어질까요? 상상만 해도 흐뭇한 두 브랜드의 콜라보가 지금 시작합니다.",
@@ -321,7 +305,7 @@
   },
   {
     "title" : "Allso 소파다방",
-    "startDate": "2025.08.08",
+    "startDate": "25.08.08",
     "endDate": "25.11.02",
     "location": "서울 중구 장충단로8길 11-18, 코브더장충",
     "content": "나만의 시간이자 하나의 방이 되어주는 소파 위에서 우리들은 다채로운 시간을 감각합니다. 잠들어 있던 감각이 다시 흐르는 이곳은 알로소의 다섯 번째 이야기. 소파多방 Sofa & Time 입니다.",
@@ -329,10 +313,18 @@
   },
   {
     "title" : "2025 SUPER 한돈 페스타",
-    "startDate": "2025.10.11",
+    "startDate": "25.10.11",
     "endDate": "25.10.19",
     "location": "서울 성동구 연무장길 73, 성수 XYZ 서울",
     "content": "슈퍼 한돈 에너지를 느낄 수 있는 즐거운 콘텐츠 체험과 글로벌 미식 브랜드들이 선보이는 한돈 요리까지! <2025 SUPER 한돈 페스타>에서 특별한 즐거움을 만나보세요!",
     "link": "https://m.place.naver.com/popupstore/2072507428/home"
+  },
+  {
+    "title" : "eyoeyo 팝업",
+    "startDate": "25.09.26",
+    "endDate": "25.10.26",
+    "location": "서울 성동구 동일로 79",
+    "content": "eyoeyo가 성수에 찾아왔습니다!",
+    "link": "https://m.place.naver.com/popupstore/1936061383/home"
   }
 ]
