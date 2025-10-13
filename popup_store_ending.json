@@ -248,6 +248,14 @@
     "link": "https://m.place.naver.com/popupstore/1667508988/home"
   },
   {
+    "title": "귀멸의칼날 부산 팝업스토어",
+    "startDate": "25.09.11",
+    "endDate": "25.09.24",
+    "location": "부산 부산진구 삼정타워 2층 팝업존",
+    "content": "귀멸의 칼날을 부산에서도 만나보세요!",
+    "link": "https://m.place.naver.com/popupstore/2084753629/home"
+  },
+  {
     "title": "팝마트 <라부부의 수상한 편의점>",
     "startDate": "25.09.12",
     "endDate": "25.09.25",
@@ -270,6 +278,14 @@
     "location": "서울 성동구 연무장길 97-1 (성수동2가)",
     "content": "ITZY x TWINZY가 기다리고 있다구! 리허설은 끝! 곧 생방송 시작합니다",
     "link": "https://m.place.naver.com/popupstore/1227155923/home"
+  },
+  {
+    "title" : "맥심가옥 팝업스토어",
+    "startDate": "25.08.28",
+    "endDate": "25.09.26",
+    "location": "경북 경주시 포석로 924",
+    "content": "행복, 이리오너라~ 바쁜 일상 잠시 내려놓고 찾아온 당신을 위해, 노란 대문을 활짝 열고 기다립니다.",
+    "link": "https://m.place.naver.com/popupstore/2099871339/home"
   },
   {
     "title" : "닥터마틴 팝업",
@@ -366,5 +382,21 @@
     "location": "서울 성동구 연무장17길 10 (성수동2가)",
     "content": "코 끝에는 자연의 향기가 맴돌고, 손이 닿는 곳에는 새로운 이야기가 있는 정원사의 서재에서 나만의 향기를 찾아보세요.",
     "link": "https://m.place.naver.com/popupstore/1379686783/home"
+  },
+  {
+    "title": "키츠네 스타필드 수원 팝업 스토어",
+    "startDate": "25.07.01",
+    "endDate": "25.09.30",
+    "location": "경기 수원시 장안구 수성로 175, 스타필드 수원 1층",
+    "content": "일본 정통 방식의 무시푸딩 전문점 키츠네 팝업 스토어! 증기로 쪄서 만든 무젤라틴 푸딩을 맛볼 수 있어요!",
+    "link": "https://m.place.naver.com/popupstore/2043035957/home"
+  },
+  {
+    "title" : "NH 올원타운 팝업",
+    "startDate": "25.09.01",
+    "endDate": "25.09.30",
+    "location": "서울 성동구 연무장13길 11, 영성산업",
+    "content": "DIY 키링도 만들고, 굿즈도 받고, 다양한 포토존에서 사진도 찍고 거기에 한식 다이닝 서비스까지?",
+    "link": "https://m.place.naver.com/popupstore/1332048237/home"
   }
 ]
