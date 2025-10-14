@@ -8,28 +8,12 @@
     "link": "https://x.com/limyoungwoong/status/1963495676102197522"
   },
   {
-    "title" : "고양이와 스프 팝업",
-    "startDate": "25.09.18",
-    "endDate": "25.10.09",
-    "location": "서울 광진구 아차산로 272 (자양동)",
-    "content": "고양이와 스프 팝업이 브이스퀘어를 찾아왔습니다. 콜라보 카페에서 맛있는 디저트도 먹고 다양한 굿즈도 구경할 수 있는 팝업으로 초대합니다.",
-    "link": "https://x.com/v_square_kr/status/1963799370631131256"
-  },
-  {
     "title": "안아줘요 부드라미의 비밀 아지트",
     "startDate": "25.08.20",
-    "endDate": "25.10.31",
+    "endDate": "25.12.28",
     "location": "서울 동작구 동작대로 119-1, 2층 카페오",
     "content": "귀여운 부드라미의 콜라보 카페 겸 팝업스토어가 오픈했어요.",
     "link": "https://m.place.naver.com/popupstore/2010553492/home"
-  },
-  {
-    "title": "스펀지밥 X 팝퍼블 콜라보 카페",
-    "startDate": "25.07.04",
-    "endDate": "25.10.12",
-    "location": "부산 수영구 민락수변로17번길 56, 팝퍼블카페",
-    "content": "락앤롤~ 바닷속 페스티벌, 지상에 상륙! 스폰지밥과 함께 즐기는 한여름의 락 페스티벌 카페가 부산에 개최됩니다",
-    "link": "https://m.place.naver.com/popupstore/1436751236/home"
   },
   {
     "title": "치플레 팝업 - 송도현대프리미엄아울렛",
@@ -46,14 +30,6 @@
     "location": "인천 중구 공항로 271",
     "content": "인천국제공항에 오아드 팝업 오픈. 오아드가 준비한 풍성한 혜택과 함께 설렘 가득한 여행의 시작을 함께해 보세요!",
     "link": "https://m.place.naver.com/popupstore/1657119535/home"
-  },
-  {
-    "title": "2025 짱구 팝업 - 대구",
-    "startDate": "25.09.19",
-    "endDate": "25.10.04",
-    "location": "대구 중구 달구벌대로 2077, 더현대 대구",
-    "content": "2025년 짱구 팝업 스토어, 숨바꼭질 컨셉으로 짱덕들을 찾아갑니다",
-    "link": "https://m.place.naver.com/popupstore/1072155043/home"
   },
   {
     "title": "울산 브랜드 홍보관 : 꿈보다 해몽",
@@ -358,5 +334,13 @@
     "location": "서울 성동구 연무장7길 13, 팩토리얼 성수",
     "content": "바이오힐 보의 안티에이징 핵심 성분 NAD. 내 미래의 광손실 피부에 대해 알아보고 꺼져가는 피부 조명의 해답인 NAD로 타임머신을 가동시켜 자가광채 피부를 되찾아보세요!",
     "link": "https://m.place.naver.com/popupstore/1091039728/home"
+  },
+  {
+    "title" : "에일리언스테이지 X 애니플러스 콜라보 카페",
+    "startDate": "25.09.25",
+    "endDate": "25.10.20",
+    "location": "서울 마포구 월드컵로3길 14",
+    "content": "애니플러스 서울 합정점에 에이스테 콜라보카페가 오픈했습니다.",
+    "link": "https://m.place.naver.com/popupstore/1695065549/home"
   }
 ]
