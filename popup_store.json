@@ -1,13 +1,5 @@
 [
   {
-    "title" : "Fly High 드론라이트쇼 in 뚝섬한강공원",
-    "startDate": "25.09.21",
-    "endDate": "25.09.21",
-    "location": "서울 광진구 자양동 435",
-    "content": "아티스트 임영웅의 두 번째 정규 앨범 'IM HERO 2' - THE MOMENT 드론라이트쇼",
-    "link": "https://x.com/limyoungwoong/status/1969038794096587131" 
-  },
-  {
     "title": "안아줘요 부드라미의 비밀 아지트",
     "startDate": "25.08.20",
     "endDate": "25.12.28",
@@ -342,5 +334,37 @@
     "location": "서울 마포구 월드컵로3길 14",
     "content": "애니플러스 서울 합정점에 에이스테 콜라보카페가 오픈했습니다.",
     "link": "https://m.place.naver.com/popupstore/1695065549/home"
+  },
+  {
+    "title" : "오아시스 팬스토어 서울",
+    "startDate": "25.10.16",
+    "endDate": "25.10.26",
+    "location": "서울 중구 을지로 127, 뉴스뮤지엄 을지로",
+    "content": "영국 록밴드 오아시스의 공식 팝업스토어 'Oasis Live ‘25 Fan Store'가 뉴스뮤지엄 을지로에서 오픈합니다.",
+    "link": "https://bstageplus.com/shop/kr/products/1185" 
+  },
+  {
+    "title" : "미피와 마법 우체통 전시",
+    "startDate": "25.09.11",
+    "endDate": "26.01.11",
+    "location": "부산 수영구 광남로 96",
+    "content": "미피 생일파티, 이번엔 부산이다! 미피와 마법 우체통이 부산에 찾아왔어요 전시에 참여해 생일파티를 같이 즐겨주세요.",
+    "link": "https://m.place.naver.com/popupstore/1984754665/home" 
+  },
+  {
+    "title" : "패트와 매트 팝업",
+    "startDate": "25.09.02",
+    "endDate": "25.10.19",
+    "location": "부산 부산진구 중앙대로 672, 삼정타워",
+    "content": "부산 최초 패트와 매트 팝업스토어 오픈! 어릴적 추억 속 두 친구가 부산으로 찾아왔습니다! 귀여운 굿즈부터 깜찍한 전시까지 사랑스러운 일상의 유쾌함을 함께 느껴보세요.",
+    "link": "https://m.place.naver.com/popupstore/1930054950/home" 
+  },
+  {
+    "title" : "나가노 마켓 팝업",
+    "startDate": "25.10.03",
+    "endDate": "25.10.19",
+    "location": "부산 부산진구 중앙대로 672, 삼정타워",
+    "content": "나가노 마켓 팝업이 이번엔 부산에 찾아왔습니다 다양한 혜택과 함께 농담곰을 부산에서 만나보세요",
+    "link": "https://m.place.naver.com/popupstore/1842506658/home" 
   }
 ]
