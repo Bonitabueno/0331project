@@ -430,5 +430,13 @@
     "location": "대구 동구 동부로 149, 신세계백화점 7층 이벤트홀",
     "content": "글로벌 바베큐 브랜드 웨버의 첫번째 팝업!",
     "link": "https://m.place.naver.com/popupstore/2064739936/home"
+  },
+  {
+    "title" : "괴담출근 팝업",
+    "startDate": "25.09.24",
+    "endDate": "25.11.02",
+    "location": "서울 서대문구 연세로 13, 현대백화점 유플렉스",
+    "content": "<괴담에 떨어져도 출근을 해야 하는구나> 전시가 현대백화점 신촌점에서 열립니다. 굿즈 팝업은 유플렉스 1층, 전시는 유플렉스 12층에서 확인할 수 있습니다.",
+    "link": "https://m.place.naver.com/popupstore/1504789555/home"
   }
 ]
