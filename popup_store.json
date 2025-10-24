@@ -398,5 +398,21 @@
     "location": "서울 영등포구 여의대로 108, 더현대서울 지하1층 대행사장",
     "content": "에이티즈 7주년 공식 팝업 '8ROOM'",
     "link": "https://m.place.naver.com/popupstore/1059034382/home"
+  },
+  {
+    "title" : "플라워노즈 팝업",
+    "startDate": "25.10.18",
+    "endDate": "25.11.01",
+    "location": "서울 성동구 아차산로 116",
+    "content": "플라워노즈 무드 가득한 공간 속에서 당신의 하루가 설렘 가득하게 바뀔 거예요",
+    "link": "https://m.place.naver.com/popupstore/1091323161/home"
+  },
+  {
+    "title" : "바이탈뷰티 팝업",
+    "startDate": "25.10.14",
+    "endDate": "25.11.02",
+    "location": "서울 성동구 아차산로11길 7, 아모레성수",
+    "content": "아모레성수에 가면 먹고 바르는 뷰티를 직접 체험할 수 있는 아주 SUPER한 기회가 있어요.",
+    "link": "https://m.place.naver.com/popupstore/1145588018/home"
   }
 ]
