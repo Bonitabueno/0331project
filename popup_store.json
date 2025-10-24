@@ -478,5 +478,29 @@
     "location": "서울 마포구 양화로 188, AK플라자 홍대 4층",
     "content": "한국 최초로 에반게리온 전시회가 홍대를 찾아왔습니다!",
     "link": "https://m.place.naver.com/popupstore/1154673141/home"
+  },
+  {
+    "title" : "포컬포인트 스타필트 하남",
+    "startDate": "25.09.01",
+    "endDate": "26.01.07",
+    "location": "경기 하남시 미사대로 750, 스타필드 하남",
+    "content": "블루리본 파이 맛집 '포컬포인트'가 스타필드 하남에 오픈했습니다.",
+    "link": "https://m.place.naver.com/popupstore/2005069720/home"
+  },
+  {
+    "title" : "삼성화재 카르르 세이프티 빌리지",
+    "startDate": "25.10.18",
+    "endDate": "25.11.02",
+    "location": "경기 용인시 처인구 포곡읍 에버랜드로376번길 171, 삼성화재 모빌리티뮤지엄",
+    "content": "[예약필요] 삼성화재의 '모두의 안전'을 지키려는 신념과 마이크로 킥보드의 '안전한 킥보드 문화를 위한 노력이 만나 <카르르 세이프티 빌리지>가 탄생했어요.",
+    "link": "https://m.place.naver.com/popupstore/2069069627/home"
+  },
+  {
+    "title" : "캠프 보산 팝업 - 보산을 담다",
+    "startDate": "25.09.26",
+    "endDate": "25.12.31",
+    "location": "경기 동두천시 평화로 2539, ",
+    "content": "보산동만의 지도, 여행 팁, 공정 관광 코스는 물론 다양한 체험거리까지! '보산을 담다' 팝업이 찾아왔습니다.",
+    "link": "https://m.place.naver.com/popupstore/1217310874/home"
   }
 ]
