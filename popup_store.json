@@ -462,5 +462,21 @@
     "location": "서울 성동구 성수이로 74",
     "content": "서울에서 시작된 질주, 아디다스 X 떠그클럽 팝업이 성수에 찾아왔습니다.",
     "link": "https://m.place.naver.com/popupstore/1935985126/home"
+  },
+  {
+    "title" : "조선 요괴전 팝업",
+    "startDate": "25.09.06",
+    "endDate": "25.11.02",
+    "location": "서울 마포구 양화로23길 22-7 (동교동)",
+    "content": "조선시대의 기괴하고 섬뜩한 요괴들을 소재로 한 특별한 공포체험 <조선요괴전>.",
+    "link": "https://m.place.naver.com/popupstore/1468153751/home"
+  },
+  {
+    "title" : "에반게리온 전시 - Lines of EVANGELION",
+    "startDate": "25.08.28",
+    "endDate": "25.11.30",
+    "location": "서울 마포구 양화로 188, AK플라자 홍대 4층",
+    "content": "한국 최초로 에반게리온 전시회가 홍대를 찾아왔습니다!",
+    "link": "https://m.place.naver.com/popupstore/1154673141/home"
   }
 ]
