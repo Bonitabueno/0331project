@@ -379,8 +379,16 @@
     "title" : "캠프 보산 팝업 - 보산을 담다",
     "startDate": "25.09.26",
     "endDate": "25.12.31",
-    "location": "경기 동두천시 평화로 2539, ",
+    "location": "경기 동두천시 평화로 2539",
     "content": "보산동만의 지도, 여행 팁, 공정 관광 코스는 물론 다양한 체험거리까지! '보산을 담다' 팝업이 찾아왔습니다.",
     "link": "https://m.place.naver.com/popupstore/1217310874/home"
+  },
+  {
+    "title" : "이웃집 통통이 팝업스토어",
+    "startDate": "25.08.29",
+    "endDate": "25.10.30",
+    "location": "경기 수원시 장안구 수성로 175 (정자동), 스타필드 수원",
+    "content": "이웃집 통통이가 수원에 왔습니다. 쫀득빵은 물론 새로 출시한 베이커리 라인업까지!",
+    "link": "https://m.place.naver.com/popupstore/143063355/home"
   }
 ]
