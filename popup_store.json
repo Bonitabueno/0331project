@@ -72,14 +72,6 @@
     "link": "https://m.place.naver.com/popupstore/2071130437/home"
   },
   {
-    "title" : "2025 짱구 팝업 - 부산",
-    "startDate": "25.10.10",
-    "endDate": "25.10.26",
-    "location": "부산 동구 범일로 125, 커넥트현대 부산",
-    "content": "2025년 짱구 팝업 스토어. 이번엔 숨바꼭질 컨셉으로 짱덕들을 찾아갑니다.",
-    "link": "https://m.place.naver.com/popupstore/1477656457/home"
-  },
-  {
     "title" : "짱구와 함께 떠나는 캠핑 어드벤처 전시",
     "startDate": "25.06.28",
     "endDate": "25.11.02",
@@ -240,30 +232,6 @@
     "link": "https://m.place.naver.com/popupstore/2090946848/home"
   },
   {
-    "title" : "에일리언스테이지 X 애니플러스 콜라보 카페 - 서울",
-    "startDate": "25.09.25",
-    "endDate": "25.10.26",
-    "location": "서울 마포구 월드컵로3길 14",
-    "content": "애니플러스 서울 합정점에 에이스테 콜라보카페가 오픈했습니다.",
-    "link": "https://m.place.naver.com/popupstore/1695065549/home"
-  },
-  {
-    "title" : "에일리언스테이지 X 애니플러스 콜라보 카페 - 부산",
-    "startDate": "25.09.25",
-    "endDate": "25.10.26",
-    "location": "부산 부산진구 중앙대로 672 (부전동, 삼정타워)",
-    "content": "애니플러스 부산 서면점에 에이스테 콜라보카페가 오픈했습니다! 다양한 굿즈와 콜라보 메뉴들이 가득하니 절대 놓치지 마세요",
-    "link": "https://m.place.naver.com/popupstore/1729885002/home"
-  },
-  {
-    "title" : "오아시스 팬스토어 서울",
-    "startDate": "25.10.16",
-    "endDate": "25.10.26",
-    "location": "서울 중구 을지로 127, 뉴스뮤지엄 을지로",
-    "content": "영국 록밴드 오아시스의 공식 팝업스토어 'Oasis Live ‘25 Fan Store'가 뉴스뮤지엄 을지로에서 오픈합니다.",
-    "link": "https://bstageplus.com/shop/kr/products/1185" 
-  },
-  {
     "title" : "미피와 마법 우체통 전시",
     "startDate": "25.09.11",
     "endDate": "26.01.11",
@@ -280,28 +248,12 @@
     "link": "https://m.place.naver.com/popupstore/1900847834/home" 
   },
   {
-    "title" : "케키바이고미 빵고미 팝업",
-    "startDate": "25.10.07",
-    "endDate": "25.10.23",
-    "location": "부산 부산진구 가야대로 772, 롯데백화점 부산점 B1",
-    "content": "빵빵한 빵고미는 빵을 좋아해!",
-    "link": "https://m.place.naver.com/popupstore/1085139087/home"
-  },
-  {
     "title" : "호러라이브 인 서울",
     "startDate": "25.10.24",
     "endDate": "25.11.02",
     "location": "서울 마포구 양화로 178-5, LC타워 별관 지하 2층 팬베이스 홍대점",
     "content": "글로벌 버추얼 유튜버 그룹 홀로라이브 프로덕션이 서울 홍대에서 팝업 스토어 ‘호러라이브 인 서울’을 연다!",
     "link": "https://fanding.kr/@hololivexfandingevent/post/159570/"
-  },
-  {
-    "title" : "원주 원도심 팝업스토어 : 만두 가게",
-    "startDate": "25.10.08",
-    "endDate": "25.10.26",
-    "location": "강원 원주시 원일로 128",
-    "content": "만두 빚고, 먹고, 즐기고! 원도심 팝업스토어 '만두 가게'",
-    "link": "https://m.place.naver.com/popupstore/2020393047/home"
   },
   {
     "title" : "괴담출근 팝업",
@@ -360,14 +312,6 @@
     "link": "https://m.place.naver.com/popupstore/1145588018/home"
   },
   {
-    "title" : "어노브 베어글로우 팝업스토어",
-    "startDate": "25.10.24",
-    "endDate": "25.10.26",
-    "location": "서울 성동구 연무장7길 16",
-    "content": "어노브 베어글로우 팝업에서 새로운 핸드바디 라인과 함께 압도적인 부드러움, 맑게 빛나는 결광을 경험해 보세요.",
-    "link": "https://m.place.naver.com/popupstore/2024790676/home"
-  },
-  {
     "title" : "벤슨 X 엔믹스 팝업",
     "startDate": "25.10.03",
     "endDate": "25.10.31",
@@ -382,14 +326,6 @@
     "location": "서울 성동구 성수이로 77, 라인프렌즈 스퀘어 성수 1층",
     "content": "오리두기 햄무라비 빠니가 라인프렌즈 스퀘어 성수를 찾아왔어요!",
     "link": "https://m.place.naver.com/popupstore/1520141372/home"
-  },
-  {
-    "title" : "펜필드 X 닉기어",
-    "startDate": "25.10.11",
-    "endDate": "25.10.24",
-    "location": "서울 성동구 성수이로 97, 무신사 엠프티 성수",
-    "content": "펜필드의 런칭 50주년을 기념해 무신사 엠프티 성수에 팝업으로 찾아왔습니다.",
-    "link": "https://m.place.naver.com/popupstore/1182453239/home"
   },
   {
     "title" : "범준 X 찰스퍼니처 + 장미맨숀 : 삶 너머 삶",
