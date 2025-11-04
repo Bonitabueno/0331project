@@ -144,14 +144,6 @@
     "link": "https://m.place.naver.com/popupstore/2010553492/home"
   },
   {
-    "title": "치플레 팝업 - 송도현대프리미엄아울렛",
-    "startDate": "25.08.22",
-    "endDate": "26.02.20",
-    "location": "인천 연수구 송도국제대로 123, 현대프리미엄아울렛 송도점 B1층",
-    "content": "서울 3대 치즈케이크 '치플레'가 26년 2월까지 인천 송도 현대프리미엄아울렛에서 팝업스토어를 운영합니다.",
-    "link": "https://www.instagram.com/p/DNpXU1oR2e5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-  },
-  {
     "title": "라이크 어거스트 팝업스토어",
     "startDate": "24.08.01",
     "endDate": "25.12.31",
@@ -216,6 +208,22 @@
     "link": "https://m.place.naver.com/popupstore/1154673141/home"
   },
   {
+    "title" : "모머위켄드 팝업스토어",
+    "startDate": "25.10.31",
+    "endDate": "25.11.30",
+    "location": "서울 영등포구 여의대로 108, 더현대 서울 4층",
+    "content": "여유로운 주말의 감성과 편안함을 제안하는 모머위켄드는 푸드스타일리스트와 국내 도자기 전문가들이 만드는 테이블웨어 브랜드입니다.",
+    "link": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002510439422"
+  },
+  {
+    "title" : "MUT 팝업스토어",
+    "startDate": "25.10.31",
+    "endDate": "25.12.04",
+    "location": "서울 영등포구 여의대로 108, 더현대 서울 6층",
+    "content": "MUT(엠유티)는 패션 브랜드가 아닙니다. 진정한 멋에 대하여 사유하는 라이프스타일 브랜드 입니다.",
+    "link": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002510439429"
+  },
+  {
     "title" : "포컬포인트 스타필트 하남",
     "startDate": "25.09.01",
     "endDate": "26.01.07",
@@ -256,14 +264,6 @@
     "link": "https://m.place.naver.com/popupstore/1902339395/home"
   },
   {
-    "title" : "토리든 커넥트 성수 - 솔리빌리지",
-    "startDate": "25.10.22",
-    "endDate": "25.12.31",
-    "location": "서울 성동구 성수이로7가길 17 (성수동2가)",
-    "content": "촉촉한 보습 이글루 마을 솔리빌리지로 여러분을 초대합니다 세럼부터 크림까지 증정 이벤트가 한가득이니 풍성한 현장 이벤트를 즐기며, 솔리빌리지에서 진짜 보습 장벽을 쌓아보세요.",
-    "link": "https://m.place.naver.com/popupstore/1836570867/home"
-  },
-  {
     "title" : "디오스피스 팝업",
     "startDate": "25.10.24",
     "endDate": "25.11.13",
@@ -294,5 +294,21 @@
     "location": "서울 강남구 언주로168길 24 2층, KREAM VIP룸",
     "content": "양치처럼 매일 꾸준히 우리 가족 치아를 책임지는 자일리톨이 성수에 찾아왔습니다",
     "link": "https://m.place.naver.com/popupstore/1476817900/home"
+  },
+  {
+    "title" : "토리든 커넥트 성수 - 솔리빌리지",
+    "startDate": "25.10.22",
+    "endDate": "25.12.31",
+    "location": "서울 성동구 성수이로7가길 17 (성수동2가)",
+    "content": "촉촉한 보습 이글루 마을 솔리빌리지로 여러분을 초대합니다 세럼부터 크림까지 증정 이벤트가 한가득이니 풍성한 현장 이벤트를 즐기며, 솔리빌리지에서 진짜 보습 장벽을 쌓아보세요.",
+    "link": "https://m.place.naver.com/popupstore/1836570867/home"
+  },
+  {
+    "title": "치플레 팝업 - 송도현대프리미엄아울렛",
+    "startDate": "25.08.22",
+    "endDate": "26.02.20",
+    "location": "인천 연수구 송도국제대로 123, 현대프리미엄아울렛 송도점 B1층",
+    "content": "서울 3대 치즈케이크 '치플레'가 26년 2월까지 인천 송도 현대프리미엄아울렛에서 팝업스토어를 운영합니다.",
+    "link": "https://www.instagram.com/p/DNpXU1oR2e5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   }
 ]
