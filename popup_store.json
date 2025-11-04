@@ -96,12 +96,36 @@
     "link": "https://m.place.naver.com/popupstore/1536600462/home"
   },
   {
+    "title" : "READING PARTY",
+    "startDate": "25.11.04",
+    "endDate": "25.11.12",
+    "location": "서울 영등포구 여의대로 108, 더현대 서울",
+    "content": "‘리딩파티(Reading Party)’는 책과 향, 시선이 어우러지는 새로운 형태의 독서 경험을 제안합니다.",
+    "link": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002510439795"
+  },
+  {
     "title" : "러쉬 성수 팝업 씨어터 : 무명배우의 욕실편",
     "startDate": "25.09.02",
     "endDate": "25.11.15",
     "location": "서울 성동구 연무장길 58-1",
     "content": "매주 금/토/일 오후 6시와 8시! 성수동 러쉬 매장과 거리를 무대로 펼쳐지는 실험적 공연이 찾아옵니다. 지나가던 누구나 관객이 될 수 있습니다.",
     "link": "https://m.place.naver.com/popupstore/2080469590/home"
+  },
+  {
+    "title" : "봉주르팝업 2025",
+    "startDate": "25.07.23",
+    "endDate": "25.11.23",
+    "location": "경기 성남시 분당구 판교역로146번길 20, 현대백화점 판교점 5층",
+    "content": "현대어린이미술관 MOKA가 개관 10주년을 맞아, 그동안 사랑받았던 전시 중 하나인 <봉주르 팝업> 전시를 새롭게 선보입니다.",
+    "link": "https://www.ehyundai.com/newCulture/EH/EH000001_V.do?seq=2089324&eventState=POST&bbsCd=210"
+  },
+  {
+    "title" : "DEBUT COUNTDOWN 팝업 : 데뷔까지 단 20분",
+    "startDate": "25.09.05",
+    "endDate": "25.11.30",
+    "location": "서울 성동구 연무장1길 7-1 (성수동2가), T팩토리 성수",
+    "content": "T엔터 연습생 대모집 누구나 나답게 데뷔할 수 있는 연예기획사, T엔터에 당신을 초대합니다! 단 하루! T엔터의 연습생이 되어 도전하고, 선택하고 마침내 데뷔의 순간을 맞이해 보세요.",
+    "link": "https://m.place.naver.com/popupstore/1473554527/home"
   },
   {
     "title": "안아줘요 부드라미의 비밀 아지트",
@@ -150,14 +174,6 @@
     "location": "서울 성동구 성수이로 77",
     "content": "레니니의 산지직송 팝업이 성수 라인프렌즈스퀘어에 등장했습니다 다양한 이벤트들이 준비되어 있으니 놓치지 마세요!",
     "link": "https://m.place.naver.com/popupstore/1113960023/home"
-  },
-  {
-    "title" : "DEBUT COUNTDOWN 팝업 : 데뷔까지 단 20분",
-    "startDate": "25.09.05",
-    "endDate": "25.11.30",
-    "location": "서울 성동구 연무장1길 7-1 (성수동2가), T팩토리 성수",
-    "content": "T엔터 연습생 대모집 누구나 나답게 데뷔할 수 있는 연예기획사, T엔터에 당신을 초대합니다! 단 하루! T엔터의 연습생이 되어 도전하고, 선택하고 마침내 데뷔의 순간을 맞이해 보세요.",
-    "link": "https://m.place.naver.com/popupstore/1473554527/home"
   },
   {
     "title" : "프레스버터샌드 갤러리아백화점 압구정점 팝업",
