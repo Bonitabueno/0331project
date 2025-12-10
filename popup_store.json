@@ -136,6 +136,14 @@
     "link": "https://m.place.naver.com/popupstore/2001070673/home"
   },
   {
+    "title" : "롯데타운 크리스마스 마켓",
+    "startDate": "25.11.20",
+    "endDate": "26.01.04",
+    "location": "서울 송파구 올림픽로 300, 롯데월드몰 월드파크",
+    "content": "하트 라이트 쇼, 스노우 샤워, 위시 월 이벤트 등 다양한 이벤트와 핫초코 카페, 베이크 하우스 같은 스페셜 부스, 그리고 다채로운 F&B 라인업까지. 한층 더 풍성하고 다채로워진 롯데백화점만의 유러피안 크리스마스 마켓을 만나보세요!",
+    "link": "https://m.place.naver.com/popupstore/2034056037/home"
+  },
+  {
     "title" : "포컬포인트 스타필트 하남",
     "startDate": "25.09.01",
     "endDate": "26.01.07",
@@ -166,6 +174,14 @@
     "location": "서울 성동구 연무장17길 10 (성수동2가), LCDC SEOUL",
     "content": "지속가능성 향원 기반 프리미엄 프래그런스 하우스 '프라포투투'가 LCDC Seoul에 찾아왔습니다.",
     "link": "https://m.place.naver.com/popupstore/1622439896/home"
+  },
+  {
+    "title": "명탐정 코난 추리게임 팝업",
+    "startDate": "26.01.09",
+    "endDate": "26.02.08",
+    "location": "서울 마포구 홍익로2길 7, B1층",
+    "content": "인기 극장판 <명탐정 코난 : 100만 달러의 펜타그램> 그 이후의 사건을 다룬, 누적 200만 명 이상이 참가한 일본 오리지널 명탐정 코난 대규모 추리 게임! 한국 최초 공개!",
+    "link": "https://m.place.naver.com/popupstore/2017034437/home"
   },
   {
     "title": "치플레 팝업 - 송도현대프리미엄아울렛",
