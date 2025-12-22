@@ -1102,5 +1102,53 @@
     "location": "서울 영등포구 여의대로 108, 더현대 서울 6층",
     "content": "MUT(엠유티)는 패션 브랜드가 아닙니다. 진정한 멋에 대하여 사유하는 라이프스타일 브랜드 입니다.",
     "link": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4002510439429"
+  },
+  {
+    "title" : "메노킨 팝업 : BUBBLE ROOM",
+    "startDate": "25.11.21",
+    "endDate": "25.12.13",
+    "location": "서울 성동구 연무장길 38-1, 1층",
+    "content": "타임세이빙 미니멀 스킨케어 브랜드, 메노킨의 첫 브랜드 팝업. <BUBBLE ROOM> 오픈",
+    "link": "https://www.instagram.com/reel/DQ6WEUJD2pM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "title": "지박소년 하나코군 2기 콜라보카페(서울)",
+    "startDate": "25.10.30",
+    "endDate": "25.12.14",
+    "location": "서울 마포구 월드컵로3길 14 (합정동, 마포 한강 2차 푸르지오) 애니플러스 서울합정점",
+    "content": "지박소년하나코군2기 X 애니플러스 콜라보 카페 OPEN!",
+    "link": "https://m.place.naver.com/popupstore/1810400312/home"
+  },
+  {
+    "title": "지박소년 하나코군 2기 콜라보카페(부산)",
+    "startDate": "25.10.30",
+    "endDate": "25.12.14",
+    "location": "부산 부산진구 중앙대로 672 (부전동, 삼정타워), 애니플러스 부산서면점",
+    "content": "지박소년하나코군2기 X 애니플러스 콜라보 카페 OPEN!",
+    "link": "https://m.place.naver.com/popupstore/1993255926/home"
+  },
+  {
+    "title": "칸독 팝업",
+    "startDate": "25.07.15",
+    "endDate": "25.12.15",
+    "location": "울산 울주군 웅촌면 오복길 17-1 101호",
+    "content": "[예약제] 반려견과 보호자를 위한 프리미엄 산책용품 브랜드 '칸독(KANDOG)'. 내가 직접 디자인 하는 DIY 목줄, 하네스, 리드줄 등을 칸독팩토리 내 팝업스토어에서 직접 체험해보세요.",
+    "link": "https://m.place.naver.com/popupstore/1993255926/home"
+  },
+  {
+    "title": "잼메이트 팝업 in 롯데백화점 광복점",
+    "startDate": "25.12.12",
+    "endDate": "25.12.18",
+    "location": "부산 중구 중앙대로 2 롯데백화점 광복점 B1층",
+    "content": "롯데백화점 광복점 아쿠아몰 B1 식품관에서 잼메이트의 특별한 프리미엄 디저트를 만나보세요!",
+    "link": "https://m.place.naver.com/popupstore/2096825730/home"
+  },
+  {
+    "title" : "크록스 케이스 팝업",
+    "startDate": "25.12.12",
+    "endDate": "26.12.18",
+    "location": "부산 해운대구 센텀남대로 35 신세계 센텀시티 B2F, 하이퍼스테이지",
+    "content": "아이코닉한 크록스 감성과 SLBS의 감각이 담긴 Crocs Case 팝업스토어가 부산 센텀시티에서 오픈합니다.",
+    "link": "https://m.place.naver.com/popupstore/2071646892/home"
   }
 ]
