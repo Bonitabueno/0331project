@@ -1,1 +1,8 @@
-
+{
+  "is_active": true,
+  "id": 1,
+  "title": "Pop-up Test",
+  "content": "This is Pop-up test.",
+  "start_datetime": "2025-12-28T22:00:00+09:00",
+  "end_datetime": "2025-12-31T23:59:59+09:00"
+}
