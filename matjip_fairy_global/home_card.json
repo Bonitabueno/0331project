@@ -1,28 +1,22 @@
 [
   {
-    "category": "Seoul",
+    "card_no": "01",
     "title": "Test",
     "description": "Test",
-    "created_at": "2025-12-24",
-    "timezone": "Asia/Seoul",
-    "bg_url": "https://cdn.pixabay.com/photo/2015/12/16/03/45/korea-1095361_1280.jpg",
+    "bg_url": "",
     "link": ""
   },
   {
-    "category": "Seoul",
-    "title": "Oysters are in season now.",
-    "description": "[Wonhyo steam oyster]\n A specialized oyster spot offering thick, juicy steamed and raw oysters during the winter season. The complimentary warm seaweed soup is ideal for melting away the winter chill.",
-    "created_at": "2025-12-26",
-    "timezone": "Asia/Seoul",
-    "bg_url": "https://cdn.pixabay.com/photo/2015/10/15/10/22/oyster-989182_1280.jpg",
-    "link": "https://maps.app.goo.gl/xvkn67AitCBS4BfcA?g_st=ic"
-  },
-  {
-    "category": "Busan",
+    "card_no": "02",
     "title": "Test",
     "description": "Test",
-    "created_at": "2025-12-24",
-    "timezone": "Asia/Seoul",
+    "bg_url": "",
+    "link": ""
+  },
+  {
+    "card_no": "02",
+    "title": "Test",
+    "description": "Test",
     "bg_url": "",
     "link": ""
   }
