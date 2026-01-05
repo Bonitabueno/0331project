@@ -64,6 +64,23 @@
     "link": "https://m.place.naver.com/popupstore/1622439896/home"
   },
   {
+    "title" : "샬랑 드 파리 X 무신사 팝업",
+    "startDate": "25.12.31",
+    "endDate": "26.01.11",
+    "location": "서울 성동구 연무장길 81, 무신사 뷰티 스페이스 1",
+    "content": "샬랑 드 파리의 따뜻한 티타임에 초대합니다!",
+    "link": "https://m.place.naver.com/popupstore/2011000882/home"
+  },
+  {
+    "title" : "덴티스테 팝업 in 올리브영N 성수",
+    "startDate": "26.01.03",
+    "endDate": "26.01.11",
+    "location": "서울 성동구 연무장7길 13, 팩토리얼 성수",
+    "content": "ALL DAY REFRESH! 덴티스테로 나만의 2026 REFRESH ROUTINE을 완성해보세요.",
+    "link": "https://m.place.naver.com/popupstore/2008898215/home"
+  },
+  
+  {
     "title" : "THE 8 : 감각이 모이다 성수",
     "startDate": "26.01.11",
     "endDate": "26.01.12",
@@ -88,6 +105,15 @@
     "link": "https://m.place.naver.com/popupstore/1937480471/home"
   },
   {
+    "title" : "주토피아2 팝업 : 윈터 베케이션",
+    "startDate": "25.12.30",
+    "endDate": "26.01.28",
+    "location": "대전 유성구 엑스포로 1 (도룡동), 신세계백화점 대전점 6층",
+    "content": "LET’S ZOOGETHER! 귀여움 과다주의. 이건 그냥 지나치기 불가. 주토피아 친구들과 함께하는 특별한 겨울, 지금 만나보세요",
+    "link": "https://m.place.naver.com/popupstore/1484399085/home"
+  },
+  
+  {
     "title" : "페이퍼백 웰니스 아지트",
     "startDate": "26.01.09",
     "endDate": "26.01.20",
@@ -110,7 +136,15 @@
     "location": "서울 영등포구 여의대로 108, 더현대 서울 (여의도동)",
     "content": "킴 카다시안의 언더웨어 브랜드, 스킴스 팝업이 더현대 서울에서 열립니다",
     "link": "https://m.place.naver.com/popupstore/1878672296/home"
-  }, 
+  },
+  {
+    "title" : "꿈돌이X뽀로로 스위트 부티크 팝업 - 대전",
+    "startDate": "25.12.08",
+    "endDate": "26.01.25",
+    "location": "대전 동구 철갑3길 17 (소제동), 아트사이트 소제",
+    "content": "꿈돌이와 뽀로로가 운영하는 달콤한 디저트 부티크로 초대합니다. <뽀로로 극장판: 스위트 캐슬 대모험> 속 세계관과 함께하는 사랑스럽고 환상적인 공간을 체험해보세요.",
+    "link": "https://m.place.naver.com/popupstore/1293912432/home"
+  },
   {
     "title" : "샤이샤이샤이 팝업",
     "startDate": "25.12.17",
@@ -140,9 +174,18 @@
     "startDate": "25.12.12",
     "endDate": "26.01.31",
     "location": "부산 해운대구 센텀남대로 35 (우동, 신세계백화점센텀시티점)",
-    "content": "평소엔 “조기품절로 못 샀다…”는 말이 나올 정도로 희소성 100% 브랜드지만, 이번 부산 팝업은 히퍼, 히퍼루킹백, 산타 신상 포함 물량 대량 확보 완료…",
+    "content": "평소엔 '조기품절로 못 샀다…'는 말이 나올 정도로 희소성 100% 브랜드지만, 이번 부산 팝업은 히퍼, 히퍼루킹백, 산타 신상 포함 물량 대량 확보 완료…",
     "link": "https://m.place.naver.com/popupstore/1793041838/home"
   },
+  {
+    "title" : "UGG 롯데백화점 대전점 팝업",
+    "startDate": "25.09.12",
+    "endDate": "26.01.31",
+    "location": "대전 서구 계룡로 598, 롯데백화점 1층",
+    "content": "어그의 계절 겨울. UGG의 상품들을 롯데백화점 대전점 팝업에서 확인해보세요.",
+    "link": "https://m.place.naver.com/popupstore/2057116471/home"
+  },
+  
   {
     "title": "명탐정 코난 추리게임 팝업",
     "startDate": "26.01.09",
