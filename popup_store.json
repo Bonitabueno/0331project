@@ -32,14 +32,6 @@
     "link": "https://m.place.naver.com/popupstore/2009883343/home"
   },
   {
-    "title" : "시오팡야 스타필드 수원점 팝업",
-    "startDate": "25.11.07",
-    "endDate": "26.01.29",
-    "location": "경기 수원시 장안구 수성로 175, 스타필드 수원 1층",
-    "content": "광화문 소금빵 맛집 '시오팡야'의  수원 팝업 스토어! 소금빵의 원조, 일본식 소금빵을 확인해보세요.",
-    "link": "https://m.place.naver.com/popupstore/2026646360/home"
-  },
-  {
     "title" : "아이들 전시 - CITY of SENSE",
     "startDate": "25.12.19",
     "endDate": "26.01.10",
@@ -105,6 +97,14 @@
     "link": "https://m.place.naver.com/popupstore/1937480471/home"
   },
   {
+    "title" : "페이퍼백 웰니스 아지트",
+    "startDate": "26.01.09",
+    "endDate": "26.01.20",
+    "location": "서울 성동구 아차산로 116",
+    "content": "프리미엄 패밀리 웰니스 케어 브랜드 '페이퍼백'의 팝업 스토어가 성수에 오픈합니다.",
+    "link": "https://m.place.naver.com/popupstore/2034443726/home"
+  },
+  {
     "title" : "주토피아2 팝업 : 윈터 베케이션",
     "startDate": "25.12.30",
     "endDate": "26.01.28",
@@ -112,14 +112,13 @@
     "content": "LET’S ZOOGETHER! 귀여움 과다주의. 이건 그냥 지나치기 불가. 주토피아 친구들과 함께하는 특별한 겨울, 지금 만나보세요",
     "link": "https://m.place.naver.com/popupstore/1484399085/home"
   },
-  
   {
-    "title" : "페이퍼백 웰니스 아지트",
-    "startDate": "26.01.09",
-    "endDate": "26.01.20",
-    "location": "서울 성동구 아차산로 116",
-    "content": "프리미엄 패밀리 웰니스 케어 브랜드 '페이퍼백'의 팝업 스토어가 성수에 오픈합니다.",
-    "link": "https://m.place.naver.com/popupstore/2034443726/home"
+    "title" : "시오팡야 스타필드 수원점 팝업",
+    "startDate": "25.11.07",
+    "endDate": "26.01.29",
+    "location": "경기 수원시 장안구 수성로 175, 스타필드 수원 1층",
+    "content": "광화문 소금빵 맛집 '시오팡야'의  수원 팝업 스토어! 소금빵의 원조, 일본식 소금빵을 확인해보세요.",
+    "link": "https://m.place.naver.com/popupstore/2026646360/home"
   },
   {
     "title" : "하우스 오브 애슐리",
