@@ -1,46 +1,5 @@
 [
   {
-    "title" : "아이들 전시 - CITY of SENSE",
-    "startDate": "25.12.19",
-    "endDate": "26.01.10",
-    "location": "서울 성동구 성수이로 50, Space S50 (성수동2가, 익상빌딩)",
-    "content": "'감각'이라는 키워드를 시각적으로 풀어낸 도시적 공간을 테마로 미디어 아트 영상존, 포토카드 부스, 미니어처 포토존까지! I-DLE과 함께 즐길거리가 가득한 City of Sense 전시로 초대합니다.",
-    "link": "https://www.instagram.com/p/DR5_hK5j2kB/?img_index=1"
-  },
-  {
-    "title" : "미피와 마법 우체통 전시",
-    "startDate": "25.09.11",
-    "endDate": "26.01.11",
-    "location": "부산 수영구 광남로 96",
-    "content": "미피 생일파티, 이번엔 부산이다! 미피와 마법 우체통이 부산에 찾아왔어요 전시에 참여해 생일파티를 같이 즐겨주세요.",
-    "link": "https://m.place.naver.com/popupstore/1984754665/home" 
-  },
-  {
-    "title" : "프라포투투 팝업",
-    "startDate": "25.11.01",
-    "endDate": "26.01.11",
-    "location": "서울 성동구 연무장17길 10 (성수동2가), LCDC SEOUL",
-    "content": "지속가능성 향원 기반 프리미엄 프래그런스 하우스 '프라포투투'가 LCDC Seoul에 찾아왔습니다.",
-    "link": "https://m.place.naver.com/popupstore/1622439896/home"
-  },
-  {
-    "title" : "샬랑 드 파리 X 무신사 팝업",
-    "startDate": "25.12.31",
-    "endDate": "26.01.11",
-    "location": "서울 성동구 연무장길 81, 무신사 뷰티 스페이스 1",
-    "content": "샬랑 드 파리의 따뜻한 티타임에 초대합니다!",
-    "link": "https://m.place.naver.com/popupstore/2011000882/home"
-  },
-  {
-    "title" : "덴티스테 팝업 in 올리브영N 성수",
-    "startDate": "26.01.03",
-    "endDate": "26.01.11",
-    "location": "서울 성동구 연무장7길 13, 팩토리얼 성수",
-    "content": "ALL DAY REFRESH! 덴티스테로 나만의 2026 REFRESH ROUTINE을 완성해보세요.",
-    "link": "https://m.place.naver.com/popupstore/2008898215/home"
-  },
-  
-  {
     "title" : "THE 8 : 감각이 모이다 성수",
     "startDate": "26.01.11",
     "endDate": "26.01.12",
