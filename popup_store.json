@@ -136,6 +136,14 @@
     "link": "https://m.place.naver.com/popupstore/2026646360/home"
   },
   {
+    "title" : "인에이 수원 스타필드 팝업스토어",
+    "startDate": "25.11.07",
+    "endDate": "26.01.29",
+    "location": "경기 수원시 장안구 수성로 175, 스타필드 수원 4층",
+    "content": "인에이의 2026년 첫 팝업이 1월 16일부터 14일간 스타필드 수원에서 열립니다. 이번 팝업에서는 지난해 가장 많은 사랑을 받은 '픽미 팬티' 를 직접 조합해 만드는 <나만의 픽미 팬티 만들기> 이벤트를 준비했습니다.",
+    "link": "https://www.instagram.com/ina.official/p/DTU2ekLCc9X/"
+  },
+  {
     "title" : "드모르 부산 신세계백화점 센텀시티 팝업",
     "startDate": "25.12.01",
     "endDate": "26.01.31",
@@ -172,8 +180,16 @@
     "startDate": "26.01.13",
     "endDate": "26.01.31",
     "location": "서울 성동구 연무장7길 13 (성수동2가, 팩토리얼성수)",
-    "content": "성분은 순하게 ALPHA, 효과는 빠르게 DRIVE! 브링그린과 알파드라이브원이 함께하는 팝업스토어,",
+    "content": "성분은 순하게 ALPHA, 효과는 빠르게 DRIVE! 브링그린과 알파드라이브원이 함께하는 팝업스토어",
     "link": "https://www.instagram.com/p/DTY1c59kp4J/"
+  },
+  {
+    "title" : "치이상점 팝업",
+    "startDate": "26.01.01",
+    "endDate": "26.01.31",
+    "location": "경기 수원시 팔달구 덕영대로 924 (매산로1가, AK플라자)",
+    "content": "아오키 치이상점이 수원 AK플라자에 팝업으로 찾아왔어요 아오키 치이상점만의 작고 귀여운 무드가 가득 담긴 상품들을 한자리에서 만날 수 있어요.",
+    "link": "https://www.instagram.com/p/DS6_BO4E2At/"
   },
   {
     "title": "명탐정 코난 추리게임 팝업",
@@ -240,6 +256,14 @@
     "link": "https://www.instagram.com/p/DRUGrZDErXq/"
   },
   {
+    "title" : "크레페허브 타임빌라스 수원점 팝업",
+    "startDate": "26.01.03",
+    "endDate": "26.02.28",
+    "location": "경기 수원시 권선구 세화로 134, 타임빌라스 수원 3F 다이닝 에비뉴",
+    "content": "크레페 전문 브랜드, '크레페허브'가 타임빌라스 수원에 팝업스토어를 오픈했습니다.",
+    "link": "https://m.place.naver.com/popupstore/2008272601/home"
+  },
+  {
     "title": "나 혼자만 레벨업 전시",
     "startDate": "25.12.13",
     "endDate": "26.03.01",
@@ -294,6 +318,14 @@
     "location": "대전 중구 중교로73번길 14 (은행동)",
     "content": "메이드바이 팝업 행운맨숀 OPEN! 전국 5개 지점에서 행운맨숀의 공간을 둘러보실 수 있는 룸투어 팝업을 진행합니다! 30인의 작가님과 함께 만든 인형 키링과 30종의 신상 인형 소품들, 그리고 다양한 행운맨숀 제품들까지!",
     "link": "https://m.place.naver.com/popupstore/1174806331/home"
+  },
+  {
+    "title" : "크래킹커피 스타필드수원 팝업",
+    "startDate": "26.01.07",
+    "endDate": "26.04.08",
+    "location": "경기 수원시 장안구 수성로 175, 스타필드수원 7층",
+    "content": "프렌치토스트와 크래킹라떼로 유명한 '크래킹커피'가 스타필드 수원에 팝업을 오픈합니다.",
+    "link": "https://m.place.naver.com/popupstore/2075624213/home"
   },
   {
     "title": "마사비스 X 여의도 IFC몰 팝업",
