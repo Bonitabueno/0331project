@@ -1,0 +1,29 @@
+[
+  {
+    "id": "project-03",
+    "title": "Matjip Fairy Global",
+    "status": "live",
+    "description": "Providing good restaurants and cafes information in South Korea",
+    "tags": ["PWA", "Information", "Local"],
+    "icon": "fa-utensils",
+    "externalLink": "https://matjipfairy.netlify.app/"
+  },
+  {
+    "id": "project-02",
+    "title": "Popup-Live",
+    "status": "live",
+    "description": "Location-based service providing real-time information on trending popup stores.",
+    "tags": ["PWA", "Local"],
+    "icon": "fa-map-marked-alt",
+    "externalLink": "https://popuplive.kro.kr"
+  },
+  {
+    "id": "project-03",
+    "title": "Popup-Live MCP",
+    "status": "live",
+    "description": "Kakao PlayMCP : Popup-Live MCP",
+    "tags": ["MCP"],
+    "icon": "fa-gear",
+    "externalLink": "https://playmcp.kakao.com/mcp/319"
+  }
+]
