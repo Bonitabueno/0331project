@@ -16,6 +16,14 @@
     "link": "https://m.place.naver.com/popupstore/2051275422/home"
   },
   {
+    "title" : "조앤프렌즈 팝업 - 부산",
+    "startDate": "26.03.12",
+    "endDate": "26.03.22",
+    "location": "부산 해운대구 센텀남대로 35 (우동) 신세계 센텀시티 B2F",
+    "content": "조앤프렌즈의 귀여운 캐릭터 굿즈를 만나볼 수 있는 조앤프렌즈 팝업이 신세계백화점 센텀시티에서 열립니다.",
+    "link": "https://m.place.naver.com/popupstore/1200136526/home"
+  },
+  {
     "title" : "디앤드퀘스천 팝업 - 롯데백화점 잠실점",
     "startDate": "26.03.06",
     "endDate": "26.03.23",
@@ -96,12 +104,36 @@
     "link": "https://www.instagram.com/p/DVQFoPQkWHy/"
   },
   {
+    "title": "에이글 대전 갤러리아 팝업",
+    "startDate": "26.02.27",
+    "endDate": "26.03.26",
+    "location": "대전 서구 대덕대로 211, 갤러리아 타임월드점 6층",
+    "content": "에이글이 갤러리아 대전 타임월드에서 2026년 두 번째 팝업을 선보입니다. 1853년부터 170년 간의 노하우로 만든 다양한 러버부츠와 2026년 S/S 신상품들도 직접 경험하실 수 있습니다.",
+    "link": "https://www.instagram.com/aigle_korea/p/DVLClP2jw_B/"
+  },
+  {
+    "title": "조셉앤스테이시 X 몬치치 팝업",
+    "startDate": "26.03.18",
+    "endDate": "26.04.01",
+    "location": "서울 강남구 언주로168길 24 (신사동)",
+    "content": "니트백 브랜드 조셉앤스테이시가 귀여운 캐릭터 몬치치와 함께 콜라보 컬렉션을 만나볼 수 있는 팝업이 찾아왔어요.",
+    "link": "https://www.instagram.com/p/DVsr_5ykeN6"
+  },
+  {
     "title" : "소머드 팝업",
     "startDate": "26.03.01",
     "endDate": "26.04.02",
     "location": "서울 중구 남대문로 81, 롯데백화점 본점 8층 (소공동)",
     "content": "소머드는 한국 전통문화인 온돌의 지혜를 매트리스에 고스란히 담아낸 매트리스입니다. 온열에 마사지까지 탑재된 매트리스를 체험해보세요.",
     "link": "https://m.place.naver.com/popupstore/2033849367/home"
+  },
+  {
+    "title": "서울도시제조허브 3월 전시회 : 다시, 봄",
+    "startDate": "26.03.18",
+    "endDate": "26.04.03",
+    "location": "서울 성동구 아차산로17길 9 (성수동2가, 서울도시제조허브)",
+    "content": "겨울이 지나 찾아온 계절의 '봄'처럼 익숙해서 지나쳤던 가치들을 다시 한번 '봄'으로써 사회적기업과 소상공인의 이야기와 의미를 함께 만나는 스토리텔링 전시입니다.",
+    "link": "https://www.instagram.com/p/DVam0JME4Ww"
   },
   {
     "title" : "월리를 찾아라 특별전 : 신기한 책 속 여행",
@@ -174,6 +206,14 @@
     "location": "서울 성동구 연무장길 65 (성수동2가, 영남공업사) LECT 성수",
     "content": "뷰티 브랜드들의 세계관을 한 자리에서 만나볼 수 있는 우즈유니버스 연합 팝업이 성수 LECT에서 열려요. 각 브랜드가 지닌 다양한 가능성과 콘셉트를 새로운 방식으로 풀어낸 공간에서 다양한 브랜드 체험과 제품을 만나보세요",
     "link": "https://www.instagram.com/oozeuniverse"
+  },
+  {
+    "title" : "한교동 팝업 - 부산",
+    "startDate": "26.03.14",
+    "endDate": "26.04.12",
+    "location": "부산광역시 해운대구 구남로 17 (우동)",
+    "content": "한교동의 생일을 기념해 부산에서 팝업스토어가 열립니다 부산 한정 굿즈와 팝업 한정 카페 메뉴를 함께 만나보세요",
+    "link": "https://www.instagram.com/p/DVu00PIDLRt"
   },
   {
     "title": "쿠팡 알럭스 팝업",
