@@ -75,9 +75,25 @@
     "title" : "한교동 팝업 - 부산",
     "startDate": "26.03.14",
     "endDate": "26.04.12",
-    "location": "부산광역시 해운대구 구남로 17 (우동)",
+    "location": "부산 해운대구 구남로 17 (우동)",
     "content": "한교동의 생일을 기념해 부산에서 팝업스토어가 열립니다 부산 한정 굿즈와 팝업 한정 카페 메뉴를 함께 만나보세요",
     "link": "https://www.instagram.com/p/DVu00PIDLRt"
+  },
+  {
+    "title" : "SUNLIGHT IS YOUR SPOTLIGHT",
+    "startDate": "26.04.02",
+    "endDate": "26.04.13",
+    "location": "서울 성동구 연무장7길 13 트렌드팟 바이 올리브영N 성수",
+    "content": "비오레와 함께라면 당신을 비추는 햇살이 당신의 스포트라이트가 됩니다. 비오레 X 트렌드팟 바이 올리브영N 성수 팝업 스토어 'SUNLIGHT IS YOUR SPOTLIGHT'에 여러분을 초대합니다.",
+    "link": "https://m.place.naver.com/popupstore/2024565072/home"
+  },
+  {
+    "title" : "하이큐 팝업",
+    "startDate": "26.03.24",
+    "endDate": "26.04.15",
+    "location": "서울 마포구 양화로 188 (동교동) AK 플라자 홍대 4층 LIMITION",
+    "content": "하이큐!! 쉬는 시간 팝업스토어가 AK플라자 홍대에 오픈했습니다.",
+    "link": "https://www.instagram.com/p/DVqpDVCiexm/"
   },
   {
     "title" : "베네데타 보롤리 팝업",
@@ -120,6 +136,14 @@
     "link": "https://pf.kakao.com/_xjxfdJn/112030759"
   },
   {
+    "title" : "곰돌이 푸 100주년 기념 푸크닉 팝업 스토어",
+    "startDate": "26.03.26",
+    "endDate": "26.05.31",
+    "location": "대전 동구 철갑3길 17 아트사이트 소제",
+    "content": "곰돌이 푸 출판 100주년을 맞아 대전에서 푸와 함께하는 피크닉을 엽니다!",
+    "link": "https://www.instagram.com/artsite_soje/p/DWF5UuKAWkS/"
+  },
+  {
     "title": "레노버 팝업스토어",
     "startDate": "25.12.02",
     "endDate": "26.06.30",
@@ -142,6 +166,14 @@
     "location": "서울 성동구 연무장7길 16, 성수포탈",
     "content": "K-BEAUTY K-GOODS K-CULTURE K-FOOD K-LIFESTYLE 한 공간에서 직접 경험하는 K-브랜드 큐레이션. 성수 콜랩코리아로 여러분을 초대합니다.",
     "link": "https://m.place.naver.com/popupstore/2002559489/home"
+  },
+  {
+    "title": "고스티 쇼룸 서울숲",
+    "startDate": "26.03.20",
+    "endDate": "26.09.14",
+    "location": "서울 성동구 서울숲4길 12-22 B1",
+    "content": "프리미엄 카드커버 브랜드 '고스티(Gosty)'가 서울숲에 쇼룸을 오픈했습니다.",
+    "link": "https://www.instagram.com/gosty_covers/"
   },
   {
     "title" : "발루토커피 압구정 팝업",
