@@ -1,37 +1,5 @@
 [  
   {
-    "title": "캐리랜드 쁘띠팩토리 팝업",
-    "startDate": "26.03.17",
-    "endDate": "26.04.30",
-    "location": "서울 강남구 가로수길 82 (신사동), 캐리마켓 신사",
-    "content": "그냥 지나치기엔 너무 귀여운 쁘띠팩토리가 캐리마켓 신사에 찾아왔어요! 보기만 해도 기분 좋아지는 캐릭터 아이템을 인형, 키링, 폰케이스, 문구, 스티커, 잡화까지 다양하게 만나볼 수 있어요",
-    "link": "https://www.instagram.com/p/DWA4zZyE4PM"
-  },
-  {
-    "title": "김영상회 팝업",
-    "startDate": "26.05.01",
-    "endDate": "26.05.07",
-    "location": "부산 부산진구 가야대로 772, 롯데백화점 부산본점 지하 1층",
-    "content": "일본 인기 간식들을 한자리에서 만나볼 수 있는 팝업이 오픈했습니다. 롯데백화점 부산본점에서 7일간 운영되는 팝업에서 실패 없는 인기 일본 간식들을 직접 경험해보세요.",
-    "link": "https://www.instagram.com/p/DXd7K7SEuXa"
-  },
-  {
-    "title": "헌터X헌터 X 애니플러스 콜라보 카페 (합정)",
-    "startDate": "26.03.26",
-    "endDate": "26.05.10",
-    "location": "서울 마포구 월드컵로3길 14 (합정동, 마포 한강 2차 푸르지오) 딜라이트 스퀘어 B동 B101호",
-    "content": "세계 최고의 헌터가 돼서 반드시 집으로 돌아갈게! 헌터x헌터 X 애니플러스 콜라보 카페가 오픈했습니다.",
-    "link": "https://www.instagram.com/p/DU0B9FNk_LZ/"
-  },
-  {
-    "title": "빵고미 빵집 캐릭터 팝업",
-    "startDate": "26.04.24",
-    "endDate": "26.05.10",
-    "location": "부산 중구 중앙대로 2 (중앙동7가) 롯데백화점 광복점 지하 1층",
-    "content": "귀여운 곰 캐릭터 빵고미! 빵을 좋아하는 곰, '빵고미'의 '빵 없는 빵집'이 오픈했습니다. 인형, 키링, 핀버튼 등 굿즈를 만나보세요.",
-    "link": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000527006"
-  },
-  {
     "title": "쿠키런: 킹덤 아트 콜라보 프로젝트 - 위대한 왕국의 유산",
     "startDate": "26.01.23",
     "endDate": "26.05.17",
@@ -64,6 +32,14 @@
     "link": "https://www.instagram.com/p/DXbVfi5FKdY/?img_index=1"
   },
   {
+    "title": "기억가게 2026 - 다시 쓰는 마음",
+    "startDate": "26.05.07",
+    "endDate": "26.05.17",
+    "location": "서울 중구 소공로 36, 모리함 전시관",
+    "content": "아름다운가게가 진행하는 ‘기억가게’는 물건의 물리적인 수명을 넘어서, 그 안에 담긴 개인의 기억과 이야기를 함께 나누는 특별한 기획 전시예요. 정성스레 담긴 물건과 사연을 통해 일상의 기록들을 천천히 되짚어볼 수 있어요.",
+    "link": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=157656&menuNo=200009"
+  },
+  {
     "title": "마사비스 X 여의도 IFC몰 팝업",
     "startDate": "25.11.28",
     "endDate": "26.05.22",
@@ -80,6 +56,14 @@
     "link": "https://www.instagram.com/p/DW85N3fmDtR/?img_index=1"
   },
   {
+    "title": "바이리네 현대백화점 충청점 팝업",
+    "startDate": "26.05.01",
+    "endDate": "26.05.25",
+    "location": "충북 청주시 흥덕구 직지대로 308, 현대백화점 충청점 5층",
+    "content": "미니멀한 미학을 담은 리빙·가구 브랜드 바이리네가 현대백화점 충청점에서 새로운 리빙 씬을 선보입니다. 계절감이 짙어지는 5월, 노브·오슬로 다이닝 등 바이리네의 주요 컬렉션을 한자리에서 확인해 보세요.",
+    "link": "https://www.instagram.com/beiligne/p/DXxssyDkmhk/"
+  },
+  {
     "title": "마티에 프리미에르 롯데월드 팝업 스토어",
     "startDate": "25.01.05",
     "endDate": "26.05.31",
@@ -94,6 +78,22 @@
     "location": "대전 동구 철갑3길 17 아트사이트 소제",
     "content": "곰돌이 푸 출판 100주년을 맞아 대전에서 푸와 함께하는 피크닉을 엽니다!",
     "link": "https://www.instagram.com/artsite_soje/p/DWF5UuKAWkS/"
+  },
+  {
+    "title": "비브람 파이브핑거스 팝업",
+    "startDate": "26.04.30",
+    "endDate": "26.05.31",
+    "location": "서울 중구 남대문로 81, 롯데백화점 본점 2층 팝업매장",
+    "content": "맨발에서 영감을 받은 기능성 풋웨어 브랜드 '비브람 파이브핑거스'를 롯데백화점 본점에서 만날 수 있어요. 발의 자연스러운 움직임과 균형 감각을 돕는 미니멀 슈즈 구조를 기반으로 러닝, 트레이닝, 일상까지 두루 신기 좋은 대표 모델들을 직접 신어보고 고를 수 있어요.",
+    "link": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000529170"
+  },
+  {
+    "title": "가누다 X 까르마 롯데백화점 본점 팝업스토어",
+    "startDate": "26.05.08",
+    "endDate": "26.06.04",
+    "location": "서울 중구 남대문로 81, 롯데백화점 본점 8층",
+    "content": "프리미엄 수면 솔루션 브랜드 '가누다'와 '까르마'를 한 공간에서 체험할 수 있는 팝업 스토어예요. 체형 진단 시스템을 통해 거북목, 라운드숄더, 척추 정렬 등을 간단히 확인한 뒤, 결과에 맞춰 매트리스와 베개를 실제로 누워보며 상담받을 수 있어요.",
+    "link": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000532597"
   },
   {
     "title": "레노버 팝업스토어",
@@ -142,6 +142,22 @@
     "location": "서울 중구 남대문로 81, 명동 롯데백화점 본점 B1 샘케이크",
     "content": "하트 모양 케이크로 유명한 샘케이크를 명동 한가운데에서 편하게 만나볼 수 있는 팝업입니다. 사랑스럽게 장식된 디자인 케이크와 쌀베이스 글루텐 프리 시트 덕분에, 보기에도 예쁘고 속도 편한 디저트를 한 번에 즐길 수 있어요.",
     "link": "https://www.instagram.com/sam.cake_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+  },
+  {
+    "title": "피에르 에르메 파리 롯데백화점 본점 팝업",
+    "startDate": "26.02.20",
+    "endDate": "26.07.31",
+    "location": "서울 중구 남대문로 81, 롯데백화점 본점 지하 1층 피에르 에르메 파리 팝업",
+    "content": "오트 파티세리의 거장 피에르 에르메 파리의 시그니처 마카롱과 마들렌, 타르트까지 한자리에서 만나볼 수 있는 디저트 팝업이에요. 롯데백화점 본점 지하 1층 팝업존에서 파리 감성의 디저트를 편하게 경험할 수 있어, 명동·을지로 일대 쇼핑 동선에 달달한 한 끼를 더하고 싶을 때 들르기 좋아요.",
+    "link": "https://www.instagram.com/pierrehermekorea/p/DU-VsoMlKqo/"
+  },
+  {
+    "title": "바이리네 신세계백화점 본점 팝업",
+    "startDate": "26.05.01",
+    "endDate": "26.07.31",
+    "location": "서울 중구 소공로 63, 신세계백화점 본점 7층",
+    "content": "미니멀리즘을 단순한 유행이 아니라 삶의 방식으로 바라보는 리빙·가구 브랜드 '바이리네'가 신세계백화점 본점에서 리빙 큐레이션을 시작합니다. 이번 팝업은 바이리네가 제안하는 NEW 모션 소파 컬렉션 3종 전 라인업을 한자리에서 모두 경험할 수 있어요.",
+    "link": "https://www.instagram.com/beiligne/p/DXxxSaljXOY/"
   },
   {
     "title": "맥스 시덴토프 개인전",
