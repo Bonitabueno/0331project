@@ -1,5 +1,13 @@
 [  
   {
+    "title": "오브에르 팝업",
+    "startDate": "26.04.24",
+    "endDate": "26.05.14",
+    "location": "서울 중구 남대문로 81, 롯데백화점 본점 9층",
+    "content": "도시를 살아가는 여성의 라이프스타일에서 영감을 받은 여성 패션 브랜드 ‘오브에르’ 팝업스토어가 롯데백화점 본점에서 진행돼요.",
+    "link": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000529161"
+  },
+  {
     "title": "쿠키런: 킹덤 아트 콜라보 프로젝트 - 위대한 왕국의 유산",
     "startDate": "26.01.23",
     "endDate": "26.05.17",
@@ -40,11 +48,19 @@
     "link": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=157656&menuNo=200009"
   },
   {
+    "title": "와사비베어 팝업 - 메롱도 사랑이다",
+    "startDate": "26.04.23",
+    "endDate": "26.05.20",
+    "location": "서울 용산구 청파로45길 34, 어티피컬 갤러리",
+    "content": "핸드메이드 인형 작가 ‘슈가레인’이 만든 캐릭터 IP 와사비베어의 전시형 팝업 ‘메롱도 사랑이다’가 어티피컬 갤러리에서 진행돼요.",
+    "link": "https://www.instagram.com/p/DWQaLNek5nd/?img_index=4"
+  },
+  {
     "title": "마사비스 X 여의도 IFC몰 팝업",
     "startDate": "25.11.28",
     "endDate": "26.05.22",
     "location": "서울 영등포구 국제금융로 10, IFC몰",
-    "content": "일본 프리미엄 쉬폰케이크 브랜드 마사비스가 여의도 IFC몰 팝업 스토어를 오픈했습니다.",
+    "content": "일본 프리미엄 쉬폰케이크 브랜드 마사비스가 여의도 IFC몰 팝업 스토어를 오픈했어요.",
     "link": "https://www.instagram.com/p/DRbD2mDD_sY/"
   },
   {
@@ -54,6 +70,14 @@
     "location": "서울 중구 명동8길 40, 에이랜드 명동점",
     "content": "스트릿 무드와 감각적인 디자인으로 사랑받는 패션 브랜드 ‘탄산마그네슘’이 명동 에이랜드에서 단독 팝업을 진행해요. 전 제품 최대 30% 할인 혜택으로 핵심 아이템을 합리적인 가격에 경험할 수 있어요.",
     "link": "https://www.instagram.com/p/DW85N3fmDtR/?img_index=1"
+  },
+  {
+    "title": "바이리네 현대백화점 충청점 팝업",
+    "startDate": "26.05.01",
+    "endDate": "26.05.25",
+    "location": "충북 청주시 흥덕구 직지대로 308, 현대백화점 충청점 5층",
+    "content": "미니멀한 미학을 담은 리빙·가구 브랜드 바이리네가 현대백화점 충청점에서 새로운 리빙 씬을 선보입니다. 계절감이 짙어지는 5월, 노브·오슬로 다이닝 등 바이리네의 주요 컬렉션을 한자리에서 확인해 보세요.",
+    "link": "https://www.instagram.com/beiligne/p/DXxssyDkmhk/"
   },
   {
     "title": "마티에 프리미에르 롯데월드 팝업 스토어",
@@ -68,7 +92,7 @@
     "startDate": "26.03.26",
     "endDate": "26.05.31",
     "location": "대전 동구 철갑3길 17 아트사이트 소제",
-    "content": "곰돌이 푸 출판 100주년을 맞아 대전에서 푸와 함께하는 피크닉을 엽니다!",
+    "content": "곰돌이 푸 출판 100주년을 맞아 대전에서 푸와 함께하는 피크닉을 열었어요!",
     "link": "https://www.instagram.com/artsite_soje/p/DWF5UuKAWkS/"
   },
   {
