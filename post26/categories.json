@@ -1,5 +1,6 @@
 [
   { "id": "movie", "name": "영화", "emoji": "🎬" },
   { "id": "drama", "name": "드라마", "emoji": "📺" },
-  { "id": "exhibition", "name": "전시회", "emoji": "🎨" }
+  { "id": "variety", "name" : "예능", "emoji": "😀" }
+  { "id": "exhibition", "name": "전시회", "emoji": "🎨" },
 ]
