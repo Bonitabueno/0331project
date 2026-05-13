@@ -11,12 +11,12 @@
   },
   {
     "id": 2,
-    "title": "신극장판 은혼: 요시와라 대염상",
-    "description": "테스트카드입니다.",
-    "type": "image",
-    "youtubeId": "",
-    "image": "https://search.pstatic.net/common?type=o&size=174x242&quality=75&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260512_214%2F1778556241243W3O8J_JPEG%2F4dce0117769456962a7b06f226e6c885.jpg",
-    "link": "",
-    "publish": "2026-05-13T14:00:00+09:00"
+    "title": "<멋진 신세계> 1-2회 요약 ",
+    "description": "5월 9일 첫방송한 '멋진 신세계'. 1화,2화를 놓쳤다면 **1화-2회 요약 영상**으로 확인하세요.",
+    "type": "youtube",
+    "youtubeId": "1jpTFpILYP0",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=1jpTFpILYP0",
+    "publish": "2026-05-13T17:50:00+09:00"
   }
 ]
