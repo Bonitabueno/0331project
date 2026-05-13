@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "<유재석 캠프> 공식 예고편",
+    "description": "5월 26일 넷플릭스 새 예능 유재석 캠프가 공개됩니다.",
+    "type": "youtube",
+    "youtubeId": "mS7MJ6ckrsw",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=mS7MJ6ckrsw",
+    "publish": "2026-05-13T00:00:00"
+  }
+]
