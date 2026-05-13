@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "title": "테스트",
-    "description": "테스트카드입니다.",
-    "type": "link",
-    "youtubeId": "",
+    "title": "<신극장판 은혼: 요시와라 대염상> 메인 예고편",
+    "description": "'신극장판 은혼: 요시와라 대염상'이 5월 20일 개봉합니다.",
+    "type": "youtube",
+    "youtubeId": "nvpBjW46NtQ",
     "image": "",
-    "link": "https://booking.mmca.go.kr/product/ko/performance/490",
+    "link": "https://www.youtube.com/watch?v=nvpBjW46NtQ",
     "publish": "2026-05-13T00:00:00+09:00"
   },
   {
     "id": 2,
-    "title": "테스트2",
+    "title": "신극장판 은혼: 요시와라 대염상",
     "description": "테스트카드입니다.",
     "type": "image",
     "youtubeId": "",
