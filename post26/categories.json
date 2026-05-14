@@ -2,5 +2,6 @@
   { "id": "movie", "name": "영화" },
   { "id": "drama", "name": "드라마" },
   { "id": "variety", "name": "예능" },
-  { "id": "exhibition", "name": "전시회" }
+  { "id": "exhibition", "name": "전시회" },
+  { "id": "animation", "name": "애니" }
 ]
