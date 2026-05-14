@@ -1,6 +1,6 @@
 [
-  { "id": "movie", "name": "영화", "character": "character_movie.webp" },
-  { "id": "drama", "name": "드라마", "character": "character_drama.webp" },
-  { "id": "variety", "name": "예능", "character": "character_variety.webp" },
-  { "id": "exhibition", "name": "전시회", "character": "character_exhibition.webp" }
+  { "id": "movie", "name": "영화" },
+  { "id": "drama", "name": "드라마" },
+  { "id": "variety", "name": "예능" },
+  { "id": "exhibition", "name": "전시회" }
 ]
