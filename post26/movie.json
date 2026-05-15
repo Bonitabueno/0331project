@@ -16,7 +16,17 @@
     "type": "youtube",
     "youtubeId": "yVtrfEw-_y8",
     "image": "",
-    "link": "https://www.youtube.com/watch?v=yVtrfEw-_y8",
+    "link": "https://m.search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bkEw&pkid=68&os=40284690&qvt=0&query=영화마이클상영일정",
     "publish": "2026-05-13T17:50:00+09:00"
+  },
+  {
+    "id": 3,
+    "title": "<군체> 5월 21일 개봉",
+    "description": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다.",
+    "type": "youtube",
+    "youtubeId": "FJ7uhPAAno8",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=FJ7uhPAAno8",
+    "publish": "2026-05-19T10:00:00+09:00"
   }
 ]
