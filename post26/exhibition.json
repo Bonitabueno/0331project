@@ -2,11 +2,21 @@
   {
     "id": 1,
     "title": "<데이미언 허스트: 진실은 없어 그러나 모든 것은 가능하지>",
-    "description": "[~ 26.06.28] 국립현대미술관 서울관에서 데이미언 허스트의 전시가 진행 중입니다.",
+    "description": "[~ 26.06.28] 국립현대미술관 서울관에서 데이미언 허스트의 전시가 진행 중이에요.",
     "type": "youtube",
     "youtubeId": "LbrzAEs7IRg",
     "image": "",
     "link": "https://booking.mmca.go.kr/product/ko/performance/490",
     "publish": "2026-05-13T11:00:00+09:00"
+  },
+  {
+    "id": 2,
+    "title": "<마리 로랑생 회고전: 무지개 위의 춤>",
+    "description": "마이아트뮤지엄이 마리 로랑생 뮤지엄과의 협력을 통해 선보이는 이번 전시는 20세기 초 파리 화단에서 활동하며 독보적인 예술 세계를 구축한 마리 로랑생의 생애와 예술적 성취를 감상하는 기회를 제공해요.",
+    "type": "youtube",
+    "youtubeId": "DNCQvHfAlZE",
+    "image": "",
+    "link": "http://www.myartmuseum.kr/",
+    "publish": "2026-05-15T10:00:00+09:00"
   }
 ]
