@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "title": "<마이클> 예고편",
+    "title": "영화 <마이클>",
     "description": "전세계가 알고 있는 가장 영향력 있는 아티스트 '마이클 잭슨'의 인생과 그 전설적인 이야기를 스크린에서!",
     "type": "youtube",
     "youtubeId": "yVtrfEw-_y8",
@@ -21,6 +21,26 @@
   },
   {
     "id": 3,
+    "title": "<넘버원> 넷플릭스 공개",
+    "description": "최우식, 장혜진, 공승연 주연의 영화 '넘버원'이 넷플릭스에서도 시청할 수 있습니다.",
+    "type": "youtube",
+    "youtubeId": "DSTM8WVMTUw",
+    "image": "",
+    "link": "https://www.netflix.com/kr/title/82769328",
+    "publish": "2026-05-18T10:00:00+09:00"
+  },
+  {
+    "id": 4,
+    "title": "<한복 입은 남자>",
+    "description": "장영실과 다빈치가 만났다? 100% AI로 만든 영화 '한복 입은 남자'가 5월 21일 개봉합니다.",
+    "type": "youtube",
+    "youtubeId": "0g6HZu5YfXQ",
+    "image": "",
+    "link": "https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bkEw&pkid=68&os=3060698&qvt=0&query=한복입은남자상영일정",
+    "publish": "2026-05-18T18:00:00+09:00"
+  },
+  {
+    "id": 5,
     "title": "<군체> 5월 21일 개봉",
     "description": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다.",
     "type": "youtube",
